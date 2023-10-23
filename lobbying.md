@@ -4,9 +4,6 @@ title: Lobbying
 permalink: /lobbying/
 ---
 
-# Lobbying
-
-
 Working with the council is a great way to affect change in your local community, but where to start, is their climate action plan any good and whom should you approach? These and many more excellent questions we have tried to address here.
 
 If you've never lobbied a council before have a look in [The Basics](/lobbying-basics) for an introduction on the council setup, wards and a bit of a who's who.

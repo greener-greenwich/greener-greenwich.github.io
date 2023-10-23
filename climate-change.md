@@ -4,8 +4,6 @@ title: Climate Change
 permalink: /climate-change/
 ---
 
-# Climate Change
-
 ## What is climate change?
 
 The weather is ever changing, but climate change relates to consistent changes over decades. Climate change impacts plants, biodiversity, rainfall, wind and temperature regionally  and globally [(1)][1]. The climate is already changing and it is indisputable with 97% of scientists agreeing that global warming is real [(2)][2].

@@ -4,8 +4,6 @@ title: About Us
 permalink: /about-us/
 ---
 
-# About Us
-
 The aim of the Greenwich Climate Network is to provide a more coordinated local approach to scrutinising, working with and holding Greenwich Council to account for delivering successfully against its stated ambition to reach net zero carbon emissions by 2030.
 
 Practically this includes attendance at relevant public meetings; review of written protocols, strategies and plans; preparing briefings ahead of key meetings; and developing regular progress reports accessible to Greenwich residents, groups and businesses. 

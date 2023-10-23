@@ -4,8 +4,6 @@ title: What can I do?
 permalink: /what-can-i-do/
 ---
 
-# What can I do?
-
 Whether you are just getting involved in the movement or if you are a seasoned activist see our bid for changes you can make in your life to reduce your own footprint or affect change around you.
 
 > "Never doubt that a small group of thoughtful, committed citizens can change the world;
