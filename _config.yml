@@ -33,12 +33,12 @@ plugins:
 github_username: greener-greenwich
 
 header_pages:
-  - about-us
-  - climate-change
-  - what-can-i-do
-  - lobbying
-  - lobbying-basics
-  - blog
+  - about-us.md
+  - climate-change.md
+  - what-can-i-do.md
+  - lobbying.md
+  - lobbying-basics.md
+  - blog.md
 
 #
 # Exclude from processing.
