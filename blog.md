@@ -6,4 +6,4 @@ permalink: /blog/
 
 This is a work in progress.
 
-I haven't copied the original posts over from [https://greenwichclimatene.wixsite.com/climatenetwork/blog].
+I haven't copied the original posts over from [the original blog](https://greenwichclimatene.wixsite.com/climatenetwork/blog).

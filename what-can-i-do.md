@@ -20,7 +20,7 @@ Whether you are just getting involved in the movement or if you are a seasoned a
 * Follow the **buyerarchy of needs** as proposed and illustrated by [Sarah Lazarovic](https://www.sarahl.com/) to combat our brains desire to want more. Everything we buy needs energy to be produced and transported. The less we buy, the less CO2 is released.​
 * **Shop locally and waste free** - Greenwich has just gotten a great new waste free shop and local farmers markets offer a great selection on seasonal fruit and veg year round
 
-![Buyerarchy of needs](/assets/img/buyerarchy_of_needs.webp)
+![Buyerarchy of needs](/assets/img/buyerarchy-of-needs.png)
 
 ## Getting around
 
