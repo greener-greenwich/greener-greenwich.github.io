@@ -11,27 +11,39 @@ We are holding Greenwich Council accountable for delivering their ambition of ze
 
 We collaborate on community eco activisim through different groups, local actions and meetings to contribute to reducing carbon within the borough.
 
-
-***
-
 ## The Network
 
-![XR Greenwich](/assets/img/xr-greenwich-thumbnail.png)
-[XR Greenwich](https://xrgreenwichcom.wordpress.com/)
+[![XR Greenwich](/assets/img/xr-greenwich-thumbnail.png)
+__XR Greenwich__
+\
 Part of Extinction Rebellion, the fastest growing non-violent civil disobedience movement in history. We rebel for life! We've been active and growing within our Greenwich community since 2019.
+](https://xrgreenwichcom.wordpress.com/)
+{:.network-member}
 
-![GRW Sustainability Hub](/assets/img/grw-sustainability-hub-thumbnail.png)
-[GRW Sustainability Hub](https://www.facebook.com/groups/263565021390664)
+[![GRW Sustainability Hub](/assets/img/grw-sustainability-hub-thumbnail.png)
+__GRW Sustainability Hub__
+\
 Working to connect residents, community groups and sustainable businesses in Greenwich. Sharing tips to make it easier for everyone to be a little greener.
+](https://www.facebook.com/groups/263565021390664)
+{: .network-member}
 
-![XR Greenwich](/assets/img/eltham-enviros-thumbnail.png)
-[Eltham Enviros](https://www.elthamenviros.eco/)
+[![Eltham Enviros](/assets/img/eltham-enviros-thumbnail.png)
+__Eltham Enviros__
+\
 We are a group of Eltham residents supporting eco-activity in our local community that celebrates, protects and nurtures our planet.
+](https://www.elthamenviros.eco/)
+{: .network-member}
 
-![Stop the Silvertown Tunnel](/assets/img/stop-silvertown-thumbnail.png)
-[Stop the Silvertown Tunnel](https://stopsilvertowntn.com/)
+[![Stop the Silvertown Tunnel](/assets/img/stop-silvertown-thumbnail.png)
+__Stop the Silvertown Tunnel__
+\
 Campaign for the cancellation of the tunnel project, and for the redirection of resources to policies that will effectively tackle global warming.
+](https://stopsilvertowntn.com/)
+{: .network-member}
 
-![Better Streets Greenwich (BSG)](/assets/img/bsg-thumbnail.png)
-[Better Streets Greenwich (BSG)](https://www.elthamenviros.eco/better-streets-greenwich)
-BSG is a community led voluntary campaign. It is designed to attract support from residents and all types of organisations and bodies (local businesses, civil society groups, local resident associations, schools etc etc) that have an interest in making our streets safer, healthier and friendlier.
+[![Better Streets Greenwich (BSG)](/assets/img/bsg-thumbnail.png)
+__Better Streets Greenwich (BSG)__
+\
+BSG is a community led voluntary campaign. It is designed to attract support from residents local businesses, civil society groups, local resident associations, schools etc  that have an interest in making our streets safer, healthier and friendlier.
+](https://www.elthamenviros.eco/better-streets-greenwich)
+{: .network-member}
