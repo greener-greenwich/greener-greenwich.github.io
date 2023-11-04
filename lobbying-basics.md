@@ -57,10 +57,10 @@ The organogram above highlights that one way for constituents to engage with and
 
 The full list of ‘levers’ available to constituents includes:
 
-• Speaking to ward councillors as the first step – they are generally knowledgeable about the local area, cabinet members and leader. They are accountable to us and are incentivised to help us. 
-• Sending in questions ahead of full council meetings. Guidance on how to do this is here. 
-• Petitions.
-• Engaging with lead cabinet members and lead officers.
+* Speaking to ward councillors as the first step – they are generally knowledgeable about the local area, cabinet members and leader. They are accountable to us and are incentivised to help us. 
+* Sending in questions ahead of full council meetings. Guidance on how to do this is here. 
+* Petitions.
+* Engaging with lead cabinet members and lead officers.
 
 ## How are green issues being handled by RBG?
 
